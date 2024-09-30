@@ -1,0 +1,8 @@
+CONCLUSIONES
+- Utilicé el framework Cypress porque es más simple la configuración inicila y facíl de instalar y se puede 
+escribir el código de automatización rapido.
+- Se utilizó commandos para que el código pueda ser reutilizable y limpio.
+- Además separé la data que es dinamica en archivos json dentro de la carpeta
+fixtures para el caso que se necesite modificar valores con facilidad.
+- Cypress graba video de la ejecución y también esta incluido dentro del proyecto
+- Incluí un reporte donde se visualiza cuales casos pasaron o fallaron.
