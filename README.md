@@ -3,8 +3,9 @@
 
 ## CONFIGURACIÓN PROYECTO
 1. Descargar proyecto
+2. Abrir terminal dentro del proyecto
 2. Ejecutar comando "npm i"
-3. Ejecutar comando "npx cypress run"
+3. Ejecutar comando "npx cypress run" para ejecutar automatización
 
 ## REPORTE
 - Abrir reporte en cualquier navegador dentro de la siguiente ruta "mochawesome-report/mochawesome.html"
